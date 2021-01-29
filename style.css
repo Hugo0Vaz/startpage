@@ -1,10 +1,10 @@
 :root {
     --font: "Roboto Mono";
-    --background: #1d1f21;
-    --foreground: #c5c8c6;
-    --green: #b5bd68;
-    --red: #cc6666;
-    --orange: #f0c674;
+    --background: #282828;
+    --foreground: #dfbf8e;
+    --green: #a9b665;
+    --red: #ea6962;
+    --orange: #e78a4e;
     --branch: 1px solid #a7a9be;
 }
 
